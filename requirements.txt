@@ -1,0 +1,9 @@
+numpy
+matplotlib
+gwpy
+tslearn
+scikit-learn
+tqdm
+plotly
+scipy
+ipywidgets

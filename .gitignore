@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# AI agent logs and local configurations (do not push to remote)
+ai-work-logs.md
+GEMINI.md
